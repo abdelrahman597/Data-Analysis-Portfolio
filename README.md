@@ -2,7 +2,8 @@
 
 Welcome to my Data Analysis Portfolio!
 
-This repository contains my data analysis projects, where I apply data cleaning, analysis, visualization, and business intelligence techniques using modern analytics tools.
+This repository showcases my practical projects in **Data Analysis**, demonstrating my skills in data cleaning, data visualization, SQL querying, dashboard development, and business insights.
+
 
 ---
 
@@ -10,7 +11,7 @@ This repository contains my data analysis projects, where I apply data cleaning,
 
 Hi, I'm **Abdelrahman Sayed**.
 
-I'm a Junior Data Analyst passionate about transforming raw data into actionable insights through analysis and interactive dashboards.
+I'm a Computer Science graduate and an aspiring **Junior Data Analyst** passionate about transforming raw data into meaningful insights using analytical tools and visualization techniques.
 
 ---
 
@@ -20,9 +21,11 @@ I'm a Junior Data Analyst passionate about transforming raw data into actionable
 - SQL
 - Power BI
 - Python (Learning)
+- Power Query
+- DAX
 - Data Cleaning
 - Data Visualization
-- Data Analysis
+- Business Analysis
 
 ---
 
@@ -30,16 +33,16 @@ I'm a Junior Data Analyst passionate about transforming raw data into actionable
 
 | Project | Tools | Status |
 |---------|-------|--------|
-| Excel Sales Dashboard | Excel | ✅ Completed |
-| Customer Analysis Dashboard | Power BI | 🚧 Coming Soon |
+| Sales Dashboard | Excel | ✅ Completed |
+| Customer Analysis Dashboard | Power BI | 🚧 In Progress |
 | SQL Data Exploration | SQL | 🚧 Coming Soon |
 | Python Data Analysis | Python | 🚧 Coming Soon |
 
 ---
 
-## 🎯 Goal
+## 🎯 Career Objective
 
-My goal is to build practical projects that demonstrate analytical thinking and business problem-solving skills.
+To build practical data analysis solutions that help businesses make data-driven decisions while continuously improving my analytical and technical skills.
 
 ---
 
